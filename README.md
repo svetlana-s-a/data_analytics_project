@@ -1,7 +1,7 @@
 # Исследовательский анализ данных (EDA) и проверка гипотез в сервисе "Яндекс Афиша"
 
 ## Дашборд проекта
-[![DataLens](https://shields.io)](https://datalens.yandex/3heepkvzd2b6n)
+[Яндекс DataLens](https://datalens.yandex/3heepkvzd2b6n)
 
 ## Описание данных
 
