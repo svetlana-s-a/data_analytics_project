@@ -88,7 +88,7 @@
 
 # Дашборд
 
-📊 *([DataLens](https://datalens.yandex/3heepkvzd2b6n))*
+📊 *[DataLens](https://datalens.yandex/3heepkvzd2b6n)*
 
 ---
 
